@@ -7,6 +7,11 @@ A Streamlit web app that detects whether a transaction is **fraudulent or legiti
 - Predicts fraud probability in real-time
 - Uses `RandomForestClassifier` trained on financial transaction data
 
+## 📁 Dataset
+The dataset used for this project (`transactions.csv`) is available here:  
+👉 https://www.kaggle.com/datasets/ealaxi/paysim1
+
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
