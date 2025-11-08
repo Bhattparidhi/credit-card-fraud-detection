@@ -1,0 +1,13 @@
+# 💳 Credit Card Fraud Detection
+
+A Streamlit web app that detects whether a transaction is **fraudulent or legitimate** using a trained Random Forest model.
+
+## 🧰 Features
+- Input transaction details
+- Predicts fraud probability in real-time
+- Uses `RandomForestClassifier` trained on financial transaction data
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
